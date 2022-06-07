@@ -1,0 +1,14 @@
+com/yazlab3/ReactNativeFlipper.java
+ com.yazlab3.ReactNativeFlipper
+ com.yazlab3.ReactNativeFlipper$1
+ com.yazlab3.ReactNativeFlipper$2
+ com.yazlab3.ReactNativeFlipper$2$1
+com/yazlab3/MainApplication.java
+ com.yazlab3.MainApplication
+ com.yazlab3.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/yazlab3/BuildConfig.java
+ com.yazlab3.BuildConfig
+com/yazlab3/MainActivity.java
+ com.yazlab3.MainActivity

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aad66ad0-f92b-4520-bbe8-97c9dd3f24bb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1mJAGMQrhVVCBay6t4mr20TfLf8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ResourceManagerPrefKey.ResourceType" value="DRAWABLE" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aad66ad0-f92b-4520-bbe8-97c9dd3f24bb" name="Default Changelist" comment="" />
+      <created>1609201223743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609201223743</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609202453573">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1609202453573" />
+    <state x="360" y="140" width="1200" height="800" key="AVDManager" timestamp="1617236893415">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="360" y="140" width="1200" height="800" key="AVDManager/0.0.1920.1080@0.0.1920.1080" timestamp="1617236893415" />
+    <state width="670" height="256" key="GridCell.Tab.0.bottom" timestamp="1609201845362">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="670" height="256" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1609201845362" />
+    <state width="670" height="256" key="GridCell.Tab.0.center" timestamp="1609201845362">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="670" height="256" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1609201845362" />
+    <state width="670" height="256" key="GridCell.Tab.0.left" timestamp="1609201845362">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="670" height="256" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1609201845362" />
+    <state width="670" height="256" key="GridCell.Tab.0.right" timestamp="1609201845362">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="670" height="256" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1609201845362" />
+    <state x="461" y="185" key="SettingsEditor" timestamp="1617236822397">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1617236822397" />
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1617236389597">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1617236389597" />
+  </component>
+</project>
